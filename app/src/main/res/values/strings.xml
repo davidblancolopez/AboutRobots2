@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AboutRobots</string>
+    <string name="texto"></string>
+    <string name="textoBoton"> No tocar</string>
+    <string name="textoBoton2">Que no me toques!!!</string>
+    <string name="textoMensaje2">Parece que los humanos no són muy inteligentes.</string>
+    <string name="textoMensaje11">Bienvenidos humanos! Esto és un test de inteligencia para humanos.</string>
+
+</resources>
